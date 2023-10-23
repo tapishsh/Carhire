@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-23 14:27:43</sys_created_on>
+        <sys_id>41e38ab9974271109c6cbcb3f153af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_527275_car_hire_car_hire_request.x_527275_car_hire.admin</sys_name>
+        <sys_package display_value="Car Hire" source="x_527275_car_hire">ab330eb5974271109c6cbcb3f153af0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire">ab330eb5974271109c6cbcb3f153af0b</sys_scope>
+        <sys_security_acl display_value="x_527275_car_hire_car_hire_request">41e34ab9974271109c6cbcb3f153aff3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_41e38ab9974271109c6cbcb3f153af06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-23 14:27:43</sys_updated_on>
+        <sys_user_role display_value="x_527275_car_hire.admin" name="x_527275_car_hire.admin">b7638235974271109c6cbcb3f153afd7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

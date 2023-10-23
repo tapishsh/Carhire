@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f7d34ab9974271109c6cbcb3f153af08" extends="sn_customerservice_case" label="Car Hire Request" max_length="40" name="x_527275_car_hire_car_hire_request" type="collection"/>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_527275_car_hire.user" name="x_527275_car_hire.user">c0730a79974271109c6cbcb3f153af20</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-23 14:25:43</sys_created_on>
+        <sys_id>40730a79974271109c6cbcb3f153af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c0730a79974271109c6cbcb3f153af20</sys_name>
+        <sys_package display_value="Car Hire" source="x_527275_car_hire">ab330eb5974271109c6cbcb3f153af0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire">ab330eb5974271109c6cbcb3f153af0b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_40730a79974271109c6cbcb3f153af21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-23 14:25:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
